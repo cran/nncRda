@@ -1,0 +1,13 @@
+export(
+"nncRda", 
+"FitRDA",
+"synma")
+
+import("nnc")
+
+importFrom("rda", "rda")
+importFrom("rda", "rda.cv")
+importFrom("MASS", "mvrnorm")
+
+
+
